@@ -159,8 +159,11 @@ for(let i=0;i<sayilar.length;i++){
   } 
  }
  console.log(tekraredensayilar);
+ console.log(sayilar.length);
+
 
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
+
 
 function sa() {
   console.log("Kodlar çalışıyor");
